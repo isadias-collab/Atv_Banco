@@ -40,9 +40,6 @@ O projeto tem como principal objetivo reforçar a importância da **validação 
 
 ---
 
-
----
-
 ## 🔒 Regras de Segurança
 
 - O usuário possui limite de tentativas de login  
@@ -57,5 +54,15 @@ O projeto tem como principal objetivo reforçar a importância da **validação 
 - HTML5  
 - CSS3  
 - JavaScript  
+
+---
+
+## 🧩 Protótipos no Figma
+
+<p align="center">
+  <a href="https://www.figma.com/design/7UNVjNFSnVVSjiCdyTYNU1/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=H5vjxGc7lfrk3Uhn-0">
+    <img src="https://img.shields.io/badge/VER%20NO%20FIGMA-Prot%C3%B3tipos-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
